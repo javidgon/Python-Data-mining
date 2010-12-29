@@ -1,0 +1,52 @@
+Python 2.6.5 (r265:79063, Apr 16 2010, 13:09:56) 
+[GCC 4.4.3] on linux2
+Type "copyright", "credits" or "license()" for more information.
+
+    ****************************************************************
+    Personal firewall software may warn about the connection IDLE
+    makes to its subprocess using this computer's internal loopback
+    interface.  This connection is not visible on any external
+    interface and no data is sent to or received from the Internet.
+    ****************************************************************
+    
+IDLE 2.6.5      ==== No Subprocess ====
+>>> 
+--------------------------------------------------------------
+-                                                            -
+-                        Lab 2                               -
+-                                                            -
+--------------------------------------------------------------
+Creating dictionaries for every film...
+Lexicon created successfully.
+Creating inverted file...
+What method do you want to use? (0 -> Term-at-time, 1 -> Document-at-time)
+0
+What query do you want to compare with the films? (Write a number, please)
+2
+Start! 2010-06-24 10:32:27.734262
+Finish! 2010-06-24 10:32:27.736254
+Performing comparisons...
+Results document created successfully.
+do you wish exit? (Yes --> y)
+n
+What method do you want to use? (0 -> Term-at-time, 1 -> Document-at-time)
+1
+What query do you want to compare with the films? (Write a number, please)
+1
+Start! 2010-06-24 10:32:37.508228
+Finish! 2010-06-24 10:32:37.516063
+Performing comparisons...
+Results document created successfully.
+do you wish exit? (Yes --> y)
+n
+What method do you want to use? (0 -> Term-at-time, 1 -> Document-at-time)
+0
+What query do you want to compare with the films? (Write a number, please)
+0
+Start! 2010-06-24 10:32:56.783077
+Finish! 2010-06-24 10:32:56.791043
+Performing comparisons...
+Results document created successfully.
+do you wish exit? (Yes --> y)
+y
+>>> 

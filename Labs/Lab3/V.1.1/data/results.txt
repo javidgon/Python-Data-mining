@@ -1,0 +1,5 @@
+Built document:
+ this (4),is (2),proof (1),
+ this (4),is (2),ecommerce (1),project (3),
+ i (1),really (1),enjoyed (1),developing (1),this (4),project (3),
+ this (4),project (3),was (1),developed (1),following (1),some (1),requirements (1),

@@ -1,0 +1,7 @@
+
+ Query: 0 -- Its films more similar are: 
+ 	 Film nº: 1  Cos: 0.265210089245 
+ 	 Film nº: 2  Cos: 0.0419129742308 
+ 	 Film nº: 17  Cos: 0.0144578732992 
+ 	 Film nº: 33  Cos: 0.00948773435809 
+

@@ -1,0 +1,1507 @@
+
+ Film: Toy Story (1995) -- Its films more similar are: 
+ 	 Sling Blade (1996):  Cos: 0.308264374029 
+ 	 Star Trek: First Contact (1996):  Cos: 0.295128135272 
+ 	 Breaking the Waves (1996):  Cos: 0.292348216473 
+ 	 Cape Fear (1991):  Cos: 0.278743087439 
+ 	 When Harry Met Sally... (1989):  Cos: 0.27752805777 
+ 	 Field of Dreams (1989):  Cos: 0.27626914876 
+ 	 Indiana Jones and the Last Crusade (1989):  Cos: 0.264815337188 
+ 	 Young Frankenstein (1974):  Cos: 0.263000394139 
+ 	 Cyrano de Bergerac (1990):  Cos: 0.261792205835 
+ 	 Unforgiven (1992):  Cos: 0.254577028148 
+
+ Film: GoldenEye (1995) -- Its films more similar are: 
+ 	 Star Trek III: The Search for Spock (1984):  Cos: 0.197311400917 
+ 	 Breaking the Waves (1996):  Cos: 0.0863465783553 
+ 	 Cape Fear (1991):  Cos: 0.0848952719956 
+ 	 Akira (1988):  Cos: 0.0631474001961 
+ 	 Unforgiven (1992):  Cos: 0.055141096657 
+ 	 Dead Poets Society (1989):  Cos: 0.0536924844171 
+ 	 Basic Instinct (1992):  Cos: 0.0525749727925 
+ 	 Weekend at Bernie's (1989):  Cos: 0.0447437370143 
+ 	 Bedknobs and Broomsticks (1971):  Cos: 0.0402693633128 
+ 	 Big Night (1996):  Cos: 0.0387492129146 
+
+ Film: Four Rooms (1995) -- Its films more similar are: 
+ 	 Star Trek III: The Search for Spock (1984):  Cos: 0.127661380465 
+ 	 101 Dalmatians (1996):  Cos: 0.123493095606 
+ 	 Sling Blade (1996):  Cos: 0.104765542518 
+ 	 Back to the Future (1985):  Cos: 0.0997974918087 
+ 	 Unforgiven (1992):  Cos: 0.0870336769894 
+ 	 Dead Poets Society (1989):  Cos: 0.0777358770764 
+ 	 Private Benjamin (1980):  Cos: 0.0756401844999 
+ 	 Weekend at Bernie's (1989):  Cos: 0.066699612884 
+ 	 Die Hard (1988):  Cos: 0.0656461428731 
+ 	 Kansas City (1996):  Cos: 0.0648203723552 
+
+ Film: Get Shorty (1995) -- Its films more similar are: 
+ 	 Star Trek IV: The Voyage Home (1986):  Cos: 0.599144689515 
+ 	 Star Trek: First Contact (1996):  Cos: 0.575980515732 
+ 	 Field of Dreams (1989):  Cos: 0.558622743184 
+ 	 Indiana Jones and the Last Crusade (1989):  Cos: 0.553259840689 
+ 	 Young Frankenstein (1974):  Cos: 0.548048485863 
+ 	 Unforgiven (1992):  Cos: 0.522543728363 
+ 	 Groundhog Day (1993):  Cos: 0.517905976974 
+ 	 Raiders of the Lost Ark (1981):  Cos: 0.502923782324 
+ 	 Private Benjamin (1980):  Cos: 0.471685035258 
+ 	 Glengarry Glen Ross (1992):  Cos: 0.451255981965 
+
+ Film: Copycat (1995) -- Its films more similar are: 
+ 	 Star Trek III: The Search for Spock (1984):  Cos: 0.292770021885 
+ 	 Star Trek: The Wrath of Khan (1982):  Cos: 0.184752086141 
+ 	 Die Hard 2 (1990):  Cos: 0.176090181265 
+ 	 Sling Blade (1996):  Cos: 0.170251306152 
+ 	 When Harry Met Sally... (1989):  Cos: 0.168654808542 
+ 	 Young Frankenstein (1974):  Cos: 0.168430384213 
+ 	 Cyrano de Bergerac (1990):  Cos: 0.151619608716 
+ 	 Groundhog Day (1993):  Cos: 0.12830005982 
+ 	 Psycho (1960):  Cos: 0.128102523044 
+ 	 Basic Instinct (1992):  Cos: 0.12026336448 
+
+ Film: Shanghai Triad (Yao a yao yao dao waipo qiao) (1995) -- Its films more similar are: 
+
+ Film: Twelve Monkeys (1995) -- Its films more similar are: 
+ 	 Star Trek IV: The Voyage Home (1986):  Cos: 0.643511631437 
+ 	 Star Trek III: The Search for Spock (1984):  Cos: 0.637333776747 
+ 	 Star Trek: The Wrath of Khan (1982):  Cos: 0.631330499067 
+ 	 Die Hard 2 (1990):  Cos: 0.631032077284 
+ 	 Sling Blade (1996):  Cos: 0.60195001231 
+ 	 Star Trek: First Contact (1996):  Cos: 0.59152990043 
+ 	 Field of Dreams (1989):  Cos: 0.579348599033 
+ 	 Indiana Jones and the Last Crusade (1989):  Cos: 0.575980515732 
+ 	 Young Frankenstein (1974):  Cos: 0.543362779742 
+ 	 Back to the Future (1985):  Cos: 0.524291442413 
+
+ Film: Babe (1995) -- Its films more similar are: 
+ 	 Sling Blade (1996):  Cos: 0.14342743312 
+ 	 When Harry Met Sally... (1989):  Cos: 0.127920429813 
+ 	 Field of Dreams (1989):  Cos: 0.12 
+ 	 Evil Dead II (1987):  Cos: 0.117669681083 
+ 	 Dead Poets Society (1989):  Cos: 0.0948683298051 
+ 	 12 Angry Men (1957):  Cos: 0.0825136997007 
+ 	 Platoon (1986):  Cos: 0.0749268649265 
+ 	 Reservoir Dogs (1992):  Cos: 0.0707106781187 
+ 	 Moll Flanders (1996):  Cos: 0.0671345086637 
+ 	 Searching for Bobby Fischer (1993):  Cos: 0.0628539361055 
+
+ Film: Dead Man Walking (1995) -- Its films more similar are: 
+ 	 Sling Blade (1996):  Cos: 0.165273735352 
+ 	 Field of Dreams (1989):  Cos: 0.13998512737 
+ 	 Cyrano de Bergerac (1990):  Cos: 0.126872295939 
+ 	 Akira (1988):  Cos: 0.123604649322 
+ 	 Glengarry Glen Ross (1992):  Cos: 0.122407181693 
+ 	 Kansas City (1996):  Cos: 0.105491702951 
+ 	 Moll Flanders (1996):  Cos: 0.0791187772129 
+ 	 Diabolique (1996):  Cos: 0.0671345086637 
+ 	 Maverick (1994):  Cos: 0.0658308018677 
+ 	 While You Were Sleeping (1995):  Cos: 0.0605331479004 
+
+ Film: Richard III (1995) -- Its films more similar are: 
+ 	 Evil Dead II (1987):  Cos: 0.177555206057 
+ 	 12 Angry Men (1957):  Cos: 0.111187397499 
+ 	 Sleeper (1973):  Cos: 0.106990123128 
+ 	 Homeward Bound: The Incredible Journey (1993):  Cos: 0.0822885023346 
+ 	 Gone with the Wind (1939):  Cos: 0.0741249316661 
+ 	 Operation Dumbo Drop (1995):  Cos: 0.0613395615082 
+ 	 Snow White and the Seven Dwarfs (1937):  Cos: 0.0600480576769 
+ 	 Dances with Wolves (1990):  Cos: 0.0588348405415 
+ 	 Home Alone (1990):  Cos: 0.054392829322 
+ 	 True Romance (1993):  Cos: 0.0533760512684 
+
+ Film: Seven (Se7en) (1995) -- Its films more similar are: 
+
+ Film: Usual Suspects, The (1995) -- Its films more similar are: 
+
+ Film: Mighty Aphrodite (1995) -- Its films more similar are: 
+ 	 Sling Blade (1996):  Cos: 0.155832066121 
+ 	 Groundhog Day (1993):  Cos: 0.101724142131 
+ 	 Evil Dead II (1987):  Cos: 0.101209079874 
+ 	 Psycho (1960):  Cos: 0.0913584946437 
+ 	 Basic Instinct (1992):  Cos: 0.0890086243645 
+ 	 Swingers (1996):  Cos: 0.0833413720478 
+ 	 Unhook the Stars (1996):  Cos: 0.0756664348755 
+ 	 Moll Flanders (1996):  Cos: 0.0699925636851 
+ 	 Sgt. Bilko (1996):  Cos: 0.0661139464082 
+ 	 Home Alone (1990):  Cos: 0.0629386018723 
+
+ Film: Postino, Il (1994) -- Its films more similar are: 
+
+ Film: Mr. Holland's Opus (1995) -- Its films more similar are: 
+ 	 Young Frankenstein (1974):  Cos: 0.738988427585 
+ 	 Unforgiven (1992):  Cos: 0.731893974431 
+ 	 Groundhog Day (1993):  Cos: 0.691260377203 
+ 	 Aliens (1986):  Cos: 0.665305628225 
+ 	 Private Benjamin (1980):  Cos: 0.656720679804 
+ 	 Glengarry Glen Ross (1992):  Cos: 0.631330499067 
+ 	 Reservoir Dogs (1992):  Cos: 0.623980650222 
+ 	 Big Night (1996):  Cos: 0.60207972894 
+ 	 2001: A Space Odyssey (1968):  Cos: 0.596955552955 
+ 	 Striptease (1996):  Cos: 0.582334013454 
+
+ Film: French Twist (Gazon maudit) (1995) -- Its films more similar are: 
+
+ Film: From Dusk Till Dawn (1996) -- Its films more similar are: 
+ 	 Young Frankenstein (1974):  Cos: 0.593569788871 
+ 	 Unforgiven (1992):  Cos: 0.587871386971 
+ 	 Groundhog Day (1993):  Cos: 0.582334013454 
+ 	 Private Benjamin (1980):  Cos: 0.555233696274 
+ 	 Glengarry Glen Ross (1992):  Cos: 0.534386340218 
+ 	 Reservoir Dogs (1992):  Cos: 0.527490743708 
+ 	 Big Night (1996):  Cos: 0.507096859776 
+ 	 2001: A Space Odyssey (1968):  Cos: 0.50119331912 
+ 	 Lone Star (1996):  Cos: 0.496966604966 
+ 	 Striptease (1996):  Cos: 0.483602075825 
+
+ Film: White Balloon, The (1995) -- Its films more similar are: 
+
+ Film: Antonia's Line (1995) -- Its films more similar are: 
+
+ Film: Angels and Insects (1995) -- Its films more similar are: 
+ 	 Back to the Future (1985):  Cos: 0.123091490979 
+ 	 Sleeper (1973):  Cos: 0.0857492925713 
+ 	 Bedknobs and Broomsticks (1971):  Cos: 0.0693375245282 
+ 	 Mystery Science Theater 3000: The Movie (1996):  Cos: 0.0486792383511 
+ 	 Twelve Monkeys (1995):  Cos: 0.0343401409872 
+
+ Film: Muppet Treasure Island (1996) -- Its films more similar are: 
+ 	 I.Q. (1994):  Cos: 0.0632455532034 
+
+ Film: Braveheart (1995) -- Its films more similar are: 
+ 	 Breaking the Waves (1996):  Cos: 0.200081682666 
+ 	 Indiana Jones and the Last Crusade (1989):  Cos: 0.143486010796 
+ 	 Unforgiven (1992):  Cos: 0.117717738949 
+ 	 Dead Poets Society (1989):  Cos: 0.113633102862 
+ 	 12 Angry Men (1957):  Cos: 0.112436199086 
+ 	 Private Benjamin (1980):  Cos: 0.107279780978 
+ 	 Glengarry Glen Ross (1992):  Cos: 0.106109335953 
+ 	 Unhook the Stars (1996):  Cos: 0.0857492925713 
+ 	 Die Hard (1988):  Cos: 0.0636929755298 
+ 	 Gone with the Wind (1939):  Cos: 0.0621070094045 
+
+ Film: Taxi Driver (1976) -- Its films more similar are: 
+ 	 Unforgiven (1992):  Cos: 0.110389464932 
+ 	 Groundhog Day (1993):  Cos: 0.0670853936785 
+ 	 Platoon (1986):  Cos: 0.0564133060833 
+ 	 Gone with the Wind (1939):  Cos: 0.05131512494 
+ 	 Kansas City (1996):  Cos: 0.042047995746 
+ 	 Aladdin (1992):  Cos: 0.0402512362071 
+ 	 Searching for Bobby Fischer (1993):  Cos: 0.0397063065532 
+ 	 Hot Shots! Part Deux (1993):  Cos: 0.0382204371755 
+ 	 Forrest Gump (1994):  Cos: 0.0347012171473 
+ 	 Priest (1994):  Cos: 0.0270814821234 
+
+ Film: Rumble in the Bronx (1995) -- Its films more similar are: 
+
+ Film: Birdcage, The (1996) -- Its films more similar are: 
+
+ Film: Brothers McMullen, The (1995) -- Its films more similar are: 
+
+ Film: Bad Boys (1995) -- Its films more similar are: 
+ 	 Sling Blade (1996):  Cos: 0.152894157431 
+ 	 Evil Dead II (1987):  Cos: 0.127920429813 
+ 	 12 Angry Men (1957):  Cos: 0.127920429813 
+ 	 Reservoir Dogs (1992):  Cos: 0.125436301501 
+ 	 Swingers (1996):  Cos: 0.101129979369 
+ 	 Nadja (1994):  Cos: 0.100503781526 
+ 	 Babe (1995):  Cos: 0.0642824346533 
+ 	 Copycat (1995):  Cos: 0.0525749727925 
+ 	 GoldenEye (1995):  Cos: 0.0522232967867 
+
+ Film: Apollo 13 (1995) -- Its films more similar are: 
+ 	 Star Trek VI: The Undiscovered Country (1991):  Cos: 0.0890870806375 
+ 	 Breaking the Waves (1996):  Cos: 0.0810440898473 
+ 	 Private Benjamin (1980):  Cos: 0.0481962692712 
+ 	 Big Night (1996):  Cos: 0.0470620805335 
+ 	 While You Were Sleeping (1995):  Cos: 0.0393520890734 
+ 	 Mr. Holland's Opus (1995):  Cos: 0.0296956935458 
+ 	 Four Rooms (1995):  Cos: 0.0282899297993 
+ 	 Toy Story (1995):  Cos: 0.0243975018237 
+
+ Film: Batman Forever (1995) -- Its films more similar are: 
+ 	 Star Trek III: The Search for Spock (1984):  Cos: 0.159205950434 
+ 	 Star Trek: The Wrath of Khan (1982):  Cos: 0.145334483903 
+ 	 When Harry Met Sally... (1989):  Cos: 0.134046497578 
+ 	 Young Frankenstein (1974):  Cos: 0.110389464932 
+ 	 Raging Bull (1980):  Cos: 0.103634246543 
+ 	 Weekend at Bernie's (1989):  Cos: 0.101598763903 
+ 	 Kansas City (1996):  Cos: 0.0965327867448 
+ 	 Mystery Science Theater 3000: The Movie (1996):  Cos: 0.0922571268441 
+ 	 Much Ado About Nothing (1993):  Cos: 0.0919175983394 
+ 	 Legends of the Fall (1994):  Cos: 0.071841174916 
+
+ Film: Belle de jour (1967) -- Its films more similar are: 
+ 	 Sling Blade (1996):  Cos: 0.205330800936 
+ 	 Field of Dreams (1989):  Cos: 0.197697196019 
+ 	 Cyrano de Bergerac (1990):  Cos: 0.157622081248 
+ 	 Patton (1970):  Cos: 0.153562461638 
+ 	 On Golden Pond (1981):  Cos: 0.13998512737 
+ 	 Basic Instinct (1992):  Cos: 0.131059516582 
+ 	 Reservoir Dogs (1992):  Cos: 0.0835917318863 
+ 	 Gone with the Wind (1939):  Cos: 0.082137851729 
+ 	 Kansas City (1996):  Cos: 0.0794440711999 
+ 	 Maya Lin: A Strong Clear Vision (1994):  Cos: 0.0752044462183 
+
+ Film: Crimson Tide (1995) -- Its films more similar are: 
+
+ Film: Crumb (1994) -- Its films more similar are: 
+ 	 Unforgiven (1992):  Cos: 0.103450736075 
+ 	 Dead Poets Society (1989):  Cos: 0.103450736075 
+ 	 Psycho (1960):  Cos: 0.100320983311 
+ 	 Die Hard (1988):  Cos: 0.0922095332168 
+ 	 Big Night (1996):  Cos: 0.0877808603971 
+ 	 Kansas City (1996):  Cos: 0.0833413720478 
+ 	 Twister (1996):  Cos: 0.0603593629523 
+ 	 Moll Flanders (1996):  Cos: 0.0447736259535 
+ 	 Free Willy 2: The Adventure Home (1995):  Cos: 0.0419074531909 
+ 	 Mighty Aphrodite (1995):  Cos: 0.0310049573139 
+
+ Film: Desperado (1995) -- Its films more similar are: 
+ 	 Die Hard 2 (1990):  Cos: 0.243975018237 
+ 	 Sling Blade (1996):  Cos: 0.238609710969 
+ 	 Star Trek: First Contact (1996):  Cos: 0.224525104685 
+ 	 When Harry Met Sally... (1989):  Cos: 0.19655396472 
+ 	 Indiana Jones and the Last Crusade (1989):  Cos: 0.170251306152 
+ 	 Akira (1988):  Cos: 0.163326314502 
+ 	 Back to the Future (1985):  Cos: 0.157788210401 
+ 	 Unforgiven (1992):  Cos: 0.152997515341 
+ 	 Groundhog Day (1993):  Cos: 0.148872833544 
+ 	 Raging Bull (1980):  Cos: 0.146741817721 
+
+ Film: Doom Generation, The (1995) -- Its films more similar are: 
+
+ Film: Free Willy 2: The Adventure Home (1995) -- Its films more similar are: 
+ 	 Star Trek IV: The Voyage Home (1986):  Cos: 0.332922571214 
+ 	 Die Hard 2 (1990):  Cos: 0.200240432866 
+ 	 Sling Blade (1996):  Cos: 0.193600773166 
+ 	 When Harry Met Sally... (1989):  Cos: 0.191530117127 
+ 	 Groundhog Day (1993):  Cos: 0.155832066121 
+ 	 Psycho (1960):  Cos: 0.151619608716 
+ 	 Moll Flanders (1996):  Cos: 0.145896036511 
+ 	 Terminator 2: Judgment Day (1991):  Cos: 0.12634967393 
+ 	 Home Alone (1990):  Cos: 0.112548371023 
+ 	 Welcome to the Dollhouse (1995):  Cos: 0.101079739144 
+
+ Film: Mad Love (1995) -- Its films more similar are: 
+ 	 Sling Blade (1996):  Cos: 0.196502114916 
+ 	 When Harry Met Sally... (1989):  Cos: 0.178434459677 
+ 	 Raging Bull (1980):  Cos: 0.172132593165 
+ 	 Top Gun (1986):  Cos: 0.138947977974 
+ 	 Bedknobs and Broomsticks (1971):  Cos: 0.134046497578 
+ 	 D3: The Mighty Ducks (1996):  Cos: 0.12962962963 
+ 	 Kansas City (1996):  Cos: 0.121965287148 
+ 	 Legends of the Fall (1994):  Cos: 0.11475506211 
+ 	 Desperado (1995):  Cos: 0.0747696205456 
+ 	 Belle de jour (1967):  Cos: 0.0567504353839 
+
+ Film: Nadja (1994) -- Its films more similar are: 
+ 	 Star Trek III: The Search for Spock (1984):  Cos: 0.22188007849 
+ 	 Star Trek: The Wrath of Khan (1982):  Cos: 0.202547873417 
+ 	 Young Frankenstein (1974):  Cos: 0.144431628935 
+ 	 Akira (1988):  Cos: 0.143032391923 
+ 	 Evil Dead II (1987):  Cos: 0.140642169282 
+ 	 12 Angry Men (1957):  Cos: 0.134534558799 
+ 	 Brazil (1985):  Cos: 0.128102523044 
+ 	 Reservoir Dogs (1992):  Cos: 0.125436301501 
+ 	 Kansas City (1996):  Cos: 0.122572584461 
+ 	 Mystery Science Theater 3000: The Movie (1996):  Cos: 0.117669681083 
+
+ Film: Net, The (1995) -- Its films more similar are: 
+
+ Film: Strange Days (1995) -- Its films more similar are: 
+ 	 Belle de jour (1967):  Cos: 0.082137851729 
+ 	 Mighty Aphrodite (1995):  Cos: 0.0661139464082 
+ 	 Dead Man Walking (1995):  Cos: 0.0440759642721 
+
+ Film: To Wong Foo, Thanks for Everything! Julie Newmar (1995) -- Its films more similar are: 
+
+ Film: Billy Madison (1995) -- Its films more similar are: 
+ 	 Star Wars (1977):  Cos: 0.0443896761618 
+ 	 Get Shorty (1995):  Cos: 0.0410132391598 
+
+ Film: Clerks (1994) -- Its films more similar are: 
+
+ Film: Disclosure (1994) -- Its films more similar are: 
+ 	 Star Trek VI: The Undiscovered Country (1991):  Cos: 0.0589255650989 
+ 	 Mr. Smith Goes to Washington (1939):  Cos: 0.0488823716738 
+ 	 Breakfast at Tiffany's (1961):  Cos: 0.0484501583112 
+ 	 Much Ado About Nothing (1993):  Cos: 0.0415048537576 
+ 	 Maverick (1994):  Cos: 0.0405720412967 
+ 	 Taxi Driver (1976):  Cos: 0.038880789568 
+ 	 Dead Man Walking (1995):  Cos: 0.0270814821234 
+
+ Film: Dolores Claiborne (1994) -- Its films more similar are: 
+
+ Film: Eat Drink Man Woman (1994) -- Its films more similar are: 
+
+ Film: Exotica (1994) -- Its films more similar are: 
+ 	 Field of Dreams (1989):  Cos: 0.07453559925 
+ 	 D3: The Mighty Ducks (1996):  Cos: 0.061898446059 
+ 	 2001: A Space Odyssey (1968):  Cos: 0.0471110168892 
+ 	 Striptease (1996):  Cos: 0.0433963036603 
+ 	 Sgt. Bilko (1996):  Cos: 0.0427666866066 
+ 	 Carlito's Way (1993):  Cos: 0.0407421554235 
+ 	 Hoop Dreams (1994):  Cos: 0.0395593886065 
+ 	 Desperado (1995):  Cos: 0.0283367428028 
+ 	 Mighty Aphrodite (1995):  Cos: 0.0263729257376 
+ 	 Four Rooms (1995):  Cos: 0.0263729257376 
+
+ Film: Ed Wood (1994) -- Its films more similar are: 
+ 	 Young Frankenstein (1974):  Cos: 0.643175880825 
+ 	 Back to the Future (1985):  Cos: 0.636019971794 
+ 	 Unforgiven (1992):  Cos: 0.629914038703 
+ 	 Groundhog Day (1993):  Cos: 0.623980650222 
+ 	 Private Benjamin (1980):  Cos: 0.5949422064 
+ 	 Glengarry Glen Ross (1992):  Cos: 0.572603915167 
+ 	 Reservoir Dogs (1992):  Cos: 0.543362779742 
+ 	 Big Night (1996):  Cos: 0.518187725172 
+ 	 2001: A Space Odyssey (1968):  Cos: 0.513777536671 
+ 	 Kansas City (1996):  Cos: 0.50119331912 
+
+ Film: Hoop Dreams (1994) -- Its films more similar are: 
+ 	 Cape Fear (1991):  Cos: 0.252824948424 
+ 	 When Harry Met Sally... (1989):  Cos: 0.251477845385 
+ 	 This Is Spinal Tap (1984):  Cos: 0.240032560258 
+ 	 Cyrano de Bergerac (1990):  Cos: 0.240032560258 
+ 	 Dead Poets Society (1989):  Cos: 0.2048366226 
+ 	 Raging Bull (1980):  Cos: 0.199431008804 
+ 	 Henry V (1989):  Cos: 0.184637236469 
+ 	 Psycho (1960):  Cos: 0.182743471162 
+ 	 Aliens (1986):  Cos: 0.148704479129 
+ 	 Brazil (1985):  Cos: 0.124247304984 
+
+ Film: I.Q. (1994) -- Its films more similar are: 
+ 	 When Harry Met Sally... (1989):  Cos: 0.0707106781187 
+ 	 Big Night (1996):  Cos: 0.0632455532034 
+ 	 Phenomenon (1996):  Cos: 0.0412568498504 
+ 	 Welcome to the Dollhouse (1995):  Cos: 0.0272165526976 
+ 	 Muppet Treasure Island (1996):  Cos: 0.0259281489421 
+ 	 Four Rooms (1995):  Cos: 0.0227921152919 
+
+ Film: Star Wars (1977) -- Its films more similar are: 
+ 	 Star Trek III: The Search for Spock (1984):  Cos: 0.528803715552 
+ 	 Star Trek: The Wrath of Khan (1982):  Cos: 0.516131906048 
+ 	 Star Trek VI: The Undiscovered Country (1991):  Cos: 0.506361964433 
+ 	 Young Frankenstein (1974):  Cos: 0.482797189704 
+ 	 Akira (1988):  Cos: 0.464669606698 
+ 	 Unforgiven (1992):  Cos: 0.458673618633 
+ 	 Groundhog Day (1993):  Cos: 0.440940347192 
+ 	 Alien (1979):  Cos: 0.435806990089 
+ 	 Private Benjamin (1980):  Cos: 0.42051072316 
+ 	 Glengarry Glen Ross (1992):  Cos: 0.416931843411 
+
+ Film: Legends of the Fall (1994) -- Its films more similar are: 
+ 	 When Harry Met Sally... (1989):  Cos: 0.162607000122 
+ 	 Unforgiven (1992):  Cos: 0.133487674985 
+ 	 Dead Poets Society (1989):  Cos: 0.121965287148 
+ 	 Raging Bull (1980):  Cos: 0.0924419707872 
+ 	 On Golden Pond (1981):  Cos: 0.083942267573 
+ 	 Kansas City (1996):  Cos: 0.0653663444099 
+ 	 Terminator 2: Judgment Day (1991):  Cos: 0.0631474001961 
+ 	 Pulp Fiction (1994):  Cos: 0.063060504049 
+ 	 Mad Love (1995):  Cos: 0.0623273779599 
+ 	 Desperado (1995):  Cos: 0.0609826435738 
+
+ Film: Madness of King George, The (1994) -- Its films more similar are: 
+
+ Film: Natural Born Killers (1994) -- Its films more similar are: 
+ 	 Amadeus (1984):  Cos: 0.0912870929175 
+ 	 Delicatessen (1991):  Cos: 0.0685188709828 
+ 	 Striptease (1996):  Cos: 0.0567504353839 
+
+ Film: Outbreak (1995) -- Its films more similar are: 
+
+ Film: Professional, The (1994) -- Its films more similar are: 
+
+ Film: Pulp Fiction (1994) -- Its films more similar are: 
+ 	 Star Trek: First Contact (1996):  Cos: 0.048999595755 
+ 	 Psycho (1960):  Cos: 0.0415945165404 
+ 	 Legends of the Fall (1994):  Cos: 0.0318464877649 
+ 	 Braveheart (1995):  Cos: 0.0310535047022 
+
+ Film: Priest (1994) -- Its films more similar are: 
+ 	 Indiana Jones and the Last Crusade (1989):  Cos: 0.584221648918 
+ 	 Young Frankenstein (1974):  Cos: 0.578612991239 
+ 	 Unforgiven (1992):  Cos: 0.573162825906 
+ 	 Groundhog Day (1993):  Cos: 0.546489312047 
+ 	 Dead Poets Society (1989):  Cos: 0.52597028133 
+ 	 12 Angry Men (1957):  Cos: 0.519183283679 
+ 	 Private Benjamin (1980):  Cos: 0.499110583346 
+ 	 Glengarry Glen Ross (1992):  Cos: 0.493300017644 
+ 	 Reservoir Dogs (1992):  Cos: 0.475985819116 
+ 	 Big Night (1996):  Cos: 0.471934802305 
+
+ Film: Quiz Show (1994) -- Its films more similar are: 
+ 	 Groundhog Day (1993):  Cos: 0.0629386018723 
+ 	 Basic Instinct (1992):  Cos: 0.04482107285 
+ 	 Mighty Aphrodite (1995):  Cos: 0.0408248290464 
+
+ Film: Three Colors: Red (1994) -- Its films more similar are: 
+
+ Film: Three Colors: Blue (1993) -- Its films more similar are: 
+
+ Film: Three Colors: White (1994) -- Its films more similar are: 
+
+ Film: Stargate (1994) -- Its films more similar are: 
+ 	 Patton (1970):  Cos: 0.0761386987627 
+ 	 2001: A Space Odyssey (1968):  Cos: 0.0494922164144 
+
+ Film: Santa Clause, The (1994) -- Its films more similar are: 
+
+ Film: Shawshank Redemption, The (1994) -- Its films more similar are: 
+
+ Film: What's Eating Gilbert Grape (1993) -- Its films more similar are: 
+
+ Film: While You Were Sleeping (1995) -- Its films more similar are: 
+ 	 Cyrano de Bergerac (1990):  Cos: 0.277350098113 
+ 	 Evil Dead II (1987):  Cos: 0.273861278753 
+ 	 Dead Poets Society (1989):  Cos: 0.255376959228 
+ 	 Raging Bull (1980):  Cos: 0.247435829653 
+ 	 Psycho (1960):  Cos: 0.231455024943 
+ 	 Private Benjamin (1980):  Cos: 0.229415733871 
+ 	 Unhook the Stars (1996):  Cos: 0.229415733871 
+ 	 Bedknobs and Broomsticks (1971):  Cos: 0.201346816564 
+ 	 Big Night (1996):  Cos: 0.184637236469 
+ 	 Citizen Kane (1941):  Cos: 0.168231646228 
+
+ Film: Ace Ventura: Pet Detective (1994) -- Its films more similar are: 
+ 	 Cape Fear (1991):  Cos: 0.584221648918 
+ 	 Indiana Jones and the Last Crusade (1989):  Cos: 0.578612991239 
+ 	 Young Frankenstein (1974):  Cos: 0.573162825906 
+ 	 Unforgiven (1992):  Cos: 0.546489312047 
+ 	 Groundhog Day (1993):  Cos: 0.52597028133 
+ 	 Private Benjamin (1980):  Cos: 0.519183283679 
+ 	 Glengarry Glen Ross (1992):  Cos: 0.499110583346 
+ 	 Reservoir Dogs (1992):  Cos: 0.493300017644 
+ 	 Big Night (1996):  Cos: 0.475985819116 
+ 	 2001: A Space Odyssey (1968):  Cos: 0.471934802305 
+
+ Film: Crow, The (1994) -- Its films more similar are: 
+
+ Film: Forrest Gump (1994) -- Its films more similar are: 
+ 	 Star Trek: The Wrath of Khan (1982):  Cos: 0.223374237315 
+ 	 Star Trek: First Contact (1996):  Cos: 0.220564386628 
+ 	 Cyrano de Bergerac (1990):  Cos: 0.205677351057 
+ 	 Dead Poets Society (1989):  Cos: 0.201346816564 
+ 	 Raging Bull (1980):  Cos: 0.199281666418 
+ 	 Psycho (1960):  Cos: 0.1864109298 
+ 	 Private Benjamin (1980):  Cos: 0.184768510738 
+ 	 Platoon (1986):  Cos: 0.184768510738 
+ 	 Unhook the Stars (1996):  Cos: 0.148704479129 
+ 	 Bedknobs and Broomsticks (1971):  Cos: 0.135491625653 
+
+ Film: Four Weddings and a Funeral (1994) -- Its films more similar are: 
+ 	 Private Benjamin (1980):  Cos: 0.117785711858 
+ 	 Top Gun (1986):  Cos: 0.108465228909 
+ 	 Bedknobs and Broomsticks (1971):  Cos: 0.0636929755298 
+
+ Film: Lion King, The (1994) -- Its films more similar are: 
+
+ Film: Mask, The (1994) -- Its films more similar are: 
+
+ Film: Maverick (1994) -- Its films more similar are: 
+ 	 Die Hard 2 (1990):  Cos: 0.12632278816 
+ 	 When Harry Met Sally... (1989):  Cos: 0.114707866935 
+ 	 Raging Bull (1980):  Cos: 0.110431526075 
+ 	 Breakfast at Tiffany's (1961):  Cos: 0.0917985092043 
+ 	 Striptease (1996):  Cos: 0.0777713771048 
+ 	 Maya Lin: A Strong Clear Vision (1994):  Cos: 0.0660338179744 
+ 	 Sgt. Bilko (1996):  Cos: 0.0618589574132 
+ 	 Much Ado About Nothing (1993):  Cos: 0.0589255650989 
+ 	 Disclosure (1994):  Cos: 0.054554472559 
+ 	 Dead Man Walking (1995):  Cos: 0.0513891532371 
+
+ Film: Faster Pussycat! Kill! Kill! (1965) -- Its films more similar are: 
+
+ Film: Brother Minister: The Assassination of Malcolm X (1994) -- Its films more similar are: 
+
+ Film: Carlito's Way (1993) -- Its films more similar are: 
+ 	 Star Trek III: The Search for Spock (1984):  Cos: 0.135612700724 
+ 	 Big Night (1996):  Cos: 0.0863465783553 
+ 	 Striptease (1996):  Cos: 0.0714741689892 
+ 	 Exotica (1994):  Cos: 0.0661139464082 
+ 	 Richard III (1995):  Cos: 0.061898446059 
+ 	 GoldenEye (1995):  Cos: 0.0515026202625 
+
+ Film: Firm, The (1993) -- Its films more similar are: 
+
+ Film: Free Willy (1993) -- Its films more similar are: 
+ 	 Indiana Jones and the Last Crusade (1989):  Cos: 0.683211834643 
+ 	 Young Frankenstein (1974):  Cos: 0.678142289745 
+ 	 Unforgiven (1992):  Cos: 0.665305628225 
+ 	 Groundhog Day (1993):  Cos: 0.634344026927 
+ 	 Brazil (1985):  Cos: 0.602648226821 
+ 	 Private Benjamin (1980):  Cos: 0.579348599033 
+ 	 Glengarry Glen Ross (1992):  Cos: 0.572603915167 
+ 	 Reservoir Dogs (1992):  Cos: 0.552506251453 
+ 	 Bedknobs and Broomsticks (1971):  Cos: 0.547803985077 
+ 	 Big Night (1996):  Cos: 0.534386340218 
+
+ Film: Fugitive, The (1993) -- Its films more similar are: 
+
+ Film: Hot Shots! Part Deux (1993) -- Its films more similar are: 
+ 	 Psycho (1960):  Cos: 0.0786213627541 
+ 	 Nadja (1994):  Cos: 0.0564133060833 
+ 	 Taxi Driver (1976):  Cos: 0.0539949247156 
+ 	 Toy Story (1995):  Cos: 0.0240981346356 
+
+ Film: Hudsucker Proxy, The (1994) -- Its films more similar are: 
+
+ Film: Jurassic Park (1993) -- Its films more similar are: 
+ 	 Star Trek VI: The Undiscovered Country (1991):  Cos: 0.0860309002015 
+ 	 Alien (1979):  Cos: 0.0847173742087 
+ 	 Platoon (1986):  Cos: 0.0742156043993 
+ 	 Die Hard (1988):  Cos: 0.0501955861058 
+ 	 Kansas City (1996):  Cos: 0.043747863926 
+
+ Film: Much Ado About Nothing (1993) -- Its films more similar are: 
+ 	 Back to the Future (1985):  Cos: 0.198945892521 
+ 	 Unforgiven (1992):  Cos: 0.191549660019 
+ 	 Brazil (1985):  Cos: 0.169540236885 
+ 	 Weekend at Bernie's (1989):  Cos: 0.155523158272 
+ 	 Mr. Smith Goes to Washington (1939):  Cos: 0.137464349807 
+ 	 Kansas City (1996):  Cos: 0.126269068069 
+ 	 Striptease (1996):  Cos: 0.104765542518 
+ 	 Operation Dumbo Drop (1995):  Cos: 0.0990536064688 
+ 	 Free Willy (1993):  Cos: 0.0818416998902 
+ 	 Maverick (1994):  Cos: 0.0661300071266 
+
+ Film: Robert A. Heinlein's The Puppet Masters (1994) -- Its films more similar are: 
+
+ Film: Ref, The (1994) -- Its films more similar are: 
+
+ Film: Remains of the Day, The (1993) -- Its films more similar are: 
+
+ Film: Searching for Bobby Fischer (1993) -- Its films more similar are: 
+ 	 Mr. Smith Goes to Washington (1939):  Cos: 0.0934946990008 
+ 	 Kansas City (1996):  Cos: 0.0695384062369 
+ 	 Aladdin (1992):  Cos: 0.0670853936785 
+ 	 Nadja (1994):  Cos: 0.0538070067742 
+ 	 Taxi Driver (1976):  Cos: 0.0402015126104 
+ 	 Braveheart (1995):  Cos: 0.0381385035698 
+ 	 Babe (1995):  Cos: 0.0327034970084 
+
+ Film: Sleepless in Seattle (1993) -- Its films more similar are: 
+
+ Film: Blade Runner (1982) -- Its films more similar are: 
+ 	 Star Trek: First Contact (1996):  Cos: 0.132019672397 
+ 	 Back to the Future (1985):  Cos: 0.11844484242 
+ 	 Reservoir Dogs (1992):  Cos: 0.101079739144 
+ 	 Mystery Science Theater 3000: The Movie (1996):  Cos: 0.100321544238 
+ 	 Moll Flanders (1996):  Cos: 0.08505172718 
+ 	 Sgt. Bilko (1996):  Cos: 0.0721237204013 
+ 	 Terminator 2: Judgment Day (1991):  Cos: 0.0304290309725 
+
+ Film: So I Married an Axe Murderer (1993) -- Its films more similar are: 
+ 	 Cyrano de Bergerac (1990):  Cos: 0.0805822964025 
+
+ Film: Nightmare Before Christmas, The (1993) -- Its films more similar are: 
+
+ Film: True Romance (1993) -- Its films more similar are: 
+ 	 Maya Lin: A Strong Clear Vision (1994):  Cos: 0.101015254455 
+ 	 Richard III (1995):  Cos: 0.0741249316661 
+
+ Film: Welcome to the Dollhouse (1995) -- Its films more similar are: 
+ 	 101 Dalmatians (1996):  Cos: 0.746015416998 
+ 	 Young Frankenstein (1974):  Cos: 0.738988427585 
+ 	 Unforgiven (1992):  Cos: 0.704597819587 
+ 	 Groundhog Day (1993):  Cos: 0.678142289745 
+ 	 Private Benjamin (1980):  Cos: 0.669391700042 
+ 	 Glengarry Glen Ross (1992):  Cos: 0.643511631437 
+ 	 Reservoir Dogs (1992):  Cos: 0.636019971794 
+ 	 Big Night (1996):  Cos: 0.613696485751 
+ 	 2001: A Space Odyssey (1968):  Cos: 0.608473441953 
+ 	 Kansas City (1996):  Cos: 0.593569788871 
+
+ Film: Home Alone (1990) -- Its films more similar are: 
+ 	 Raging Bull (1980):  Cos: 0.101079739144 
+ 	 Dances with Wolves (1990):  Cos: 0.0913584946437 
+ 	 Welcome to the Dollhouse (1995):  Cos: 0.0890870806375 
+ 	 Hoop Dreams (1994):  Cos: 0.0764719112902 
+ 	 Free Willy 2: The Adventure Home (1995):  Cos: 0.0620322806932 
+ 	 Desperado (1995):  Cos: 0.0615457454897 
+ 	 Mighty Aphrodite (1995):  Cos: 0.0555555555556 
+ 	 Richard III (1995):  Cos: 0.0533760512684 
+
+ Film: Aladdin (1992) -- Its films more similar are: 
+ 	 Young Frankenstein (1974):  Cos: 0.746015416998 
+ 	 Unforgiven (1992):  Cos: 0.731893974431 
+ 	 Groundhog Day (1993):  Cos: 0.697833523915 
+ 	 Private Benjamin (1980):  Cos: 0.683211834643 
+ 	 Glengarry Glen Ross (1992):  Cos: 0.662965390942 
+ 	 Reservoir Dogs (1992):  Cos: 0.637333776747 
+ 	 Big Night (1996):  Cos: 0.629914038703 
+ 	 2001: A Space Odyssey (1968):  Cos: 0.607804863087 
+ 	 Kansas City (1996):  Cos: 0.60263196167 
+ 	 Striptease (1996):  Cos: 0.587871386971 
+
+ Film: Terminator 2: Judgment Day (1991) -- Its films more similar are: 
+ 	 Die Hard 2 (1990):  Cos: 0.373833589709 
+ 	 Sling Blade (1996):  Cos: 0.224846875207 
+ 	 When Harry Met Sally... (1989):  Cos: 0.21506619681 
+ 	 Back to the Future (1985):  Cos: 0.193600773166 
+ 	 Groundhog Day (1993):  Cos: 0.170251306152 
+ 	 On Golden Pond (1981):  Cos: 0.170251306152 
+ 	 Moll Flanders (1996):  Cos: 0.163824395728 
+ 	 Sgt. Bilko (1996):  Cos: 0.133487674985 
+ 	 Blade Runner (1982):  Cos: 0.132406785333 
+ 	 Legends of the Fall (1994):  Cos: 0.128331750585 
+
+ Film: Dances with Wolves (1990) -- Its films more similar are: 
+ 	 Raging Bull (1980):  Cos: 0.197565194923 
+ 	 Gone with the Wind (1939):  Cos: 0.106990123128 
+ 	 Operation Dumbo Drop (1995):  Cos: 0.0915621927664 
+ 	 Home Alone (1990):  Cos: 0.0890870806375 
+ 	 Forrest Gump (1994):  Cos: 0.0613139339485 
+ 	 Richard III (1995):  Cos: 0.0358748001667 
+ 	 Twelve Monkeys (1995):  Cos: 0.0212453613826 
+
+ Film: Silence of the Lambs, The (1991) -- Its films more similar are: 
+
+ Film: Snow White and the Seven Dwarfs (1937) -- Its films more similar are: 
+ 	 Star Trek IV: The Voyage Home (1986):  Cos: 0.386093671253 
+ 	 Star Trek: First Contact (1996):  Cos: 0.343699890076 
+ 	 Cape Fear (1991):  Cos: 0.230343692456 
+ 	 Field of Dreams (1989):  Cos: 0.214559561956 
+ 	 Indiana Jones and the Last Crusade (1989):  Cos: 0.211472213055 
+ 	 Unforgiven (1992):  Cos: 0.208514414057 
+ 	 Raiders of the Lost Ark (1981):  Cos: 0.204301567382 
+ 	 Private Benjamin (1980):  Cos: 0.164275703458 
+ 	 Basic Instinct (1992):  Cos: 0.126702453432 
+ 	 Bedknobs and Broomsticks (1971):  Cos: 0.121803874338 
+
+ Film: Fargo (1996) -- Its films more similar are: 
+ 	 Young Frankenstein (1974):  Cos: 0.529200604736 
+ 	 Unforgiven (1992):  Cos: 0.52412016131 
+ 	 Groundhog Day (1993):  Cos: 0.519183283679 
+ 	 Raging Bull (1980):  Cos: 0.495021837949 
+ 	 Private Benjamin (1980):  Cos: 0.476435256154 
+ 	 Glengarry Glen Ross (1992):  Cos: 0.470287446897 
+ 	 Reservoir Dogs (1992):  Cos: 0.452105160817 
+ 	 Big Night (1996):  Cos: 0.446841824737 
+ 	 2001: A Space Odyssey (1968):  Cos: 0.431158249251 
+ 	 Striptease (1996):  Cos: 0.427488750611 
+
+ Film: Heavy Metal (1981) -- Its films more similar are: 
+ 	 Young Frankenstein (1974):  Cos: 0.704597819587 
+ 	 Unforgiven (1992):  Cos: 0.697833523915 
+ 	 Groundhog Day (1993):  Cos: 0.691260377203 
+ 	 Private Benjamin (1980):  Cos: 0.634344026927 
+ 	 Glengarry Glen Ross (1992):  Cos: 0.626158599777 
+ 	 Reservoir Dogs (1992):  Cos: 0.60195001231 
+ 	 Big Night (1996):  Cos: 0.5949422064 
+ 	 2001: A Space Odyssey (1968):  Cos: 0.574060497287 
+ 	 Striptease (1996):  Cos: 0.569174787185 
+ 	 Fargo (1996):  Cos: 0.555233696274 
+
+ Film: Aristocats, The (1970) -- Its films more similar are: 
+
+ Film: All Dogs Go to Heaven 2 (1996) -- Its films more similar are: 
+ 	 101 Dalmatians (1996):  Cos: 0.09443843293 
+ 	 Top Gun (1986):  Cos: 0.0849207775608 
+ 	 Unhook the Stars (1996):  Cos: 0.0760148623585 
+ 	 Die Hard (1988):  Cos: 0.0682788741999 
+ 	 Operation Dumbo Drop (1995):  Cos: 0.0566138517072 
+ 	 Hoop Dreams (1994):  Cos: 0.0477409916026 
+ 	 Four Rooms (1995):  Cos: 0.0440367713775 
+
+ Film: Theodore Rex (1995) -- Its films more similar are: 
+
+ Film: Sgt. Bilko (1996) -- Its films more similar are: 
+ 	 101 Dalmatians (1996):  Cos: 0.216520331274 
+ 	 Sling Blade (1996):  Cos: 0.211999576001 
+ 	 Star Trek: First Contact (1996):  Cos: 0.182474090331 
+ 	 When Harry Met Sally... (1989):  Cos: 0.179917346221 
+ 	 Indiana Jones and the Last Crusade (1989):  Cos: 0.173816669818 
+ 	 Back to the Future (1985):  Cos: 0.152997515341 
+ 	 Unforgiven (1992):  Cos: 0.1413979866 
+ 	 Raging Bull (1980):  Cos: 0.137414142983 
+ 	 Full Metal Jacket (1987):  Cos: 0.129555296445 
+ 	 12 Angry Men (1957):  Cos: 0.0927699490529 
+
+ Film: Diabolique (1996) -- Its films more similar are: 
+ 	 Sling Blade (1996):  Cos: 0.205330800936 
+ 	 Field of Dreams (1989):  Cos: 0.18609684208 
+ 	 Cyrano de Bergerac (1990):  Cos: 0.18130384364 
+ 	 Basic Instinct (1992):  Cos: 0.165273735352 
+ 	 Mr. Smith Goes to Washington (1939):  Cos: 0.154735694183 
+ 	 Kansas City (1996):  Cos: 0.143637914281 
+ 	 Striptease (1996):  Cos: 0.0887902877616 
+ 	 Desperado (1995):  Cos: 0.0518999296108 
+ 	 Belle de jour (1967):  Cos: 0.0413184338379 
+ 	 Dead Man Walking (1995):  Cos: 0.0402015126104 
+
+ Film: Moll Flanders (1996) -- Its films more similar are: 
+ 	 Sling Blade (1996):  Cos: 0.255331089993 
+ 	 Star Trek: First Contact (1996):  Cos: 0.212167106198 
+ 	 Indiana Jones and the Last Crusade (1989):  Cos: 0.211999576001 
+ 	 Back to the Future (1985):  Cos: 0.204972897937 
+ 	 Psycho (1960):  Cos: 0.180555555556 
+ 	 Aliens (1986):  Cos: 0.166743242212 
+ 	 Raiders of the Lost Ark (1981):  Cos: 0.162045304022 
+ 	 Mr. Smith Goes to Washington (1939):  Cos: 0.135485051526 
+ 	 Citizen Kane (1941):  Cos: 0.132309436689 
+ 	 Kansas City (1996):  Cos: 0.108798534972 
+
+ Film: Kids in the Hall: Brain Candy (1996) -- Its films more similar are: 
+
+ Film: Mystery Science Theater 3000: The Movie (1996) -- Its films more similar are: 
+ 	 Star Trek III: The Search for Spock (1984):  Cos: 0.194028500029 
+ 	 Star Trek: The Wrath of Khan (1982):  Cos: 0.177122977108 
+ 	 Star Trek: First Contact (1996):  Cos: 0.134534558799 
+ 	 Young Frankenstein (1974):  Cos: 0.132019672397 
+ 	 Cyrano de Bergerac (1990):  Cos: 0.12630179559 
+ 	 Back to the Future (1985):  Cos: 0.116877887042 
+ 	 Amadeus (1984):  Cos: 0.112022406722 
+ 	 Private Benjamin (1980):  Cos: 0.0965327867448 
+ 	 Sleeper (1973):  Cos: 0.0857492925713 
+ 	 Mr. Smith Goes to Washington (1939):  Cos: 0.0844400661841 
+
+ Film: Operation Dumbo Drop (1995) -- Its films more similar are: 
+ 	 Sling Blade (1996):  Cos: 0.169540236885 
+ 	 Star Trek: First Contact (1996):  Cos: 0.165273735352 
+ 	 Back to the Future (1985):  Cos: 0.151951820677 
+ 	 Unforgiven (1992):  Cos: 0.129200422163 
+ 	 Unhook the Stars (1996):  Cos: 0.0979257453545 
+ 	 Gone with the Wind (1939):  Cos: 0.0915621927664 
+ 	 Kansas City (1996):  Cos: 0.0913584946437 
+ 	 All Dogs Go to Heaven 2 (1996):  Cos: 0.0870336769894 
+ 	 Fargo (1996):  Cos: 0.0822885023346 
+ 	 Dances with Wolves (1990):  Cos: 0.0760148623585 
+
+ Film: Truth About Cats & Dogs, The (1996) -- Its films more similar are: 
+
+ Film: Flipper (1996) -- Its films more similar are: 
+ 	 Cyrano de Bergerac (1990):  Cos: 0.303821810125 
+ 	 Dead Poets Society (1989):  Cos: 0.28331529879 
+ 	 Raging Bull (1980):  Cos: 0.277350098113 
+ 	 Psycho (1960):  Cos: 0.274505406523 
+ 	 Jean de Florette (1986):  Cos: 0.256776295507 
+ 	 Unhook the Stars (1996):  Cos: 0.25451390519 
+ 	 Bedknobs and Broomsticks (1971):  Cos: 0.25451390519 
+ 	 Big Night (1996):  Cos: 0.223374237315 
+ 	 Citizen Kane (1941):  Cos: 0.2048366226 
+ 	 Forrest Gump (1994):  Cos: 0.186636254348 
+
+ Film: Horseman on the Roof, The (Hussard sur le toit, Le) (1995) -- Its films more similar are: 
+
+ Film: Wallace & Gromit: The Best of Aardman Animation (1996) -- Its films more similar are: 
+
+ Film: Haunted World of Edward D. Wood Jr., The (1995) -- Its films more similar are: 
+
+ Film: Cold Comfort Farm (1995) -- Its films more similar are: 
+
+ Film: Rock, The (1996) -- Its films more similar are: 
+
+ Film: Twister (1996) -- Its films more similar are: 
+ 	 Unforgiven (1992):  Cos: 0.15625 
+ 	 Die Hard (1988):  Cos: 0.103450736075 
+ 	 Kansas City (1996):  Cos: 0.0911656196862 
+ 	 Crumb (1994):  Cos: 0.0886146946198 
+ 	 Mr. Holland's Opus (1995):  Cos: 0.0279508497187 
+
+ Film: Maya Lin: A Strong Clear Vision (1994) -- Its films more similar are: 
+ 	 Basic Instinct (1992):  Cos: 0.101015254455 
+ 	 True Romance (1993):  Cos: 0.0835917318863 
+ 	 Maverick (1994):  Cos: 0.0654653670708 
+ 	 Belle de jour (1967):  Cos: 0.054554472559 
+
+ Film: Striptease (1996) -- Its films more similar are: 
+ 	 Young Frankenstein (1974):  Cos: 0.554674829805 
+ 	 Unforgiven (1992):  Cos: 0.549349828156 
+ 	 Groundhog Day (1993):  Cos: 0.544175303155 
+ 	 Alien (1979):  Cos: 0.518850793549 
+ 	 Delicatessen (1991):  Cos: 0.516589144251 
+ 	 Private Benjamin (1980):  Cos: 0.492925758648 
+ 	 Glengarry Glen Ross (1992):  Cos: 0.47386822858 
+ 	 Reservoir Dogs (1992):  Cos: 0.468351530341 
+ 	 Big Night (1996):  Cos: 0.45191299175 
+ 	 2001: A Space Odyssey (1968):  Cos: 0.448066853792 
+
+ Film: Independence Day (ID4) (1996) -- Its films more similar are: 
+
+ Film: Cable Guy, The (1996) -- Its films more similar are: 
+
+ Film: Frighteners, The (1996) -- Its films more similar are: 
+
+ Film: Lone Star (1996) -- Its films more similar are: 
+ 	 Indiana Jones and the Last Crusade (1989):  Cos: 0.228802157661 
+ 	 Dead Poets Society (1989):  Cos: 0.164082530828 
+ 	 12 Angry Men (1957):  Cos: 0.128575712715 
+ 	 Snow White and the Seven Dwarfs (1937):  Cos: 0.121340667924 
+ 	 Priest (1994):  Cos: 0.117717738949 
+ 	 Braveheart (1995):  Cos: 0.0408930410055 
+ 	 From Dusk Till Dawn (1996):  Cos: 0.0352234976838 
+
+ Film: Phenomenon (1996) -- Its films more similar are: 
+ 	 I.Q. (1994):  Cos: 0.0707106781187 
+ 	 Copycat (1995):  Cos: 0.057735026919 
+
+ Film: Spitfire Grill, The (1996) -- Its films more similar are: 
+
+ Film: Godfather, The (1972) -- Its films more similar are: 
+
+ Film: Supercop (1992) -- Its films more similar are: 
+
+ Film: Bound (1996) -- Its films more similar are: 
+
+ Film: Kansas City (1996) -- Its films more similar are: 
+ 	 Star Trek VI: The Undiscovered Country (1991):  Cos: 0.197697196019 
+ 	 Sling Blade (1996):  Cos: 0.191549660019 
+ 	 When Harry Met Sally... (1989):  Cos: 0.148872833544 
+ 	 Field of Dreams (1989):  Cos: 0.143637914281 
+ 	 Cyrano de Bergerac (1990):  Cos: 0.143637914281 
+ 	 Back to the Future (1985):  Cos: 0.143032391923 
+ 	 Unforgiven (1992):  Cos: 0.138947977974 
+ 	 Raging Bull (1980):  Cos: 0.122407181693 
+ 	 Brazil (1985):  Cos: 0.112286922809 
+ 	 On Golden Pond (1981):  Cos: 0.110263569284 
+
+ Film: Breakfast at Tiffany's (1961) -- Its films more similar are: 
+ 	 Die Hard 2 (1990):  Cos: 0.0821686553497 
+ 	 Maverick (1994):  Cos: 0.0777713771048 
+ 	 Disclosure (1994):  Cos: 0.0488823716738 
+
+ Film: Wizard of Oz, The (1939) -- Its films more similar are: 
+
+ Film: Gone with the Wind (1939) -- Its films more similar are: 
+ 	 Star Trek III: The Search for Spock (1984):  Cos: 0.197565194923 
+ 	 Groundhog Day (1993):  Cos: 0.177555206057 
+ 	 On Golden Pond (1981):  Cos: 0.151951820677 
+ 	 Operation Dumbo Drop (1995):  Cos: 0.0621070094045 
+ 	 Dances with Wolves (1990):  Cos: 0.0467524582212 
+ 	 Belle de jour (1967):  Cos: 0.0459922049818 
+ 	 Taxi Driver (1976):  Cos: 0.0382204371755 
+ 	 Braveheart (1995):  Cos: 0.0377560160746 
+ 	 Richard III (1995):  Cos: 0.0324632741512 
+
+ Film: Citizen Kane (1941) -- Its films more similar are: 
+ 	 Cyrano de Bergerac (1990):  Cos: 0.303821810125 
+ 	 Dead Poets Society (1989):  Cos: 0.279751442472 
+ 	 Raging Bull (1980):  Cos: 0.273861278753 
+ 	 Psycho (1960):  Cos: 0.271052370872 
+ 	 Unhook the Stars (1996):  Cos: 0.253546276419 
+ 	 Bedknobs and Broomsticks (1971):  Cos: 0.252824948424 
+ 	 Flipper (1996):  Cos: 0.251312344975 
+ 	 Moll Flanders (1996):  Cos: 0.251312344975 
+ 	 Free Willy (1993):  Cos: 0.220564386628 
+ 	 Forrest Gump (1994):  Cos: 0.18428853505 
+
+ Film: 2001: A Space Odyssey (1968) -- Its films more similar are: 
+ 	 Young Frankenstein (1974):  Cos: 0.554674829805 
+ 	 Unforgiven (1992):  Cos: 0.549349828156 
+ 	 Groundhog Day (1993):  Cos: 0.544175303155 
+ 	 Private Benjamin (1980):  Cos: 0.518850793549 
+ 	 Glengarry Glen Ross (1992):  Cos: 0.49936950611 
+ 	 Reservoir Dogs (1992):  Cos: 0.492925758648 
+ 	 Big Night (1996):  Cos: 0.47386822858 
+ 	 Striptease (1996):  Cos: 0.468351530341 
+ 	 Heavy Metal (1981):  Cos: 0.45191299175 
+ 	 Fargo (1996):  Cos: 0.448066853792 
+
+ Film: Mr. Smith Goes to Washington (1939) -- Its films more similar are: 
+ 	 Star Trek VI: The Undiscovered Country (1991):  Cos: 0.304500092797 
+ 	 Sling Blade (1996):  Cos: 0.253024038426 
+ 	 Star Trek: First Contact (1996):  Cos: 0.204972897937 
+ 	 Indiana Jones and the Last Crusade (1989):  Cos: 0.198852919667 
+ 	 Aliens (1986):  Cos: 0.193250301455 
+ 	 Raiders of the Lost Ark (1981):  Cos: 0.1821981315 
+ 	 Mystery Science Theater 3000: The Movie (1996):  Cos: 0.173816669818 
+ 	 Moll Flanders (1996):  Cos: 0.157788210401 
+ 	 Diabolique (1996):  Cos: 0.104548757227 
+ 	 Sgt. Bilko (1996):  Cos: 0.0542326144547 
+
+ Film: Big Night (1996) -- Its films more similar are: 
+ 	 Star Trek III: The Search for Spock (1984):  Cos: 0.464042722331 
+ 	 Young Frankenstein (1974):  Cos: 0.449734035026 
+ 	 Unforgiven (1992):  Cos: 0.445416488331 
+ 	 Groundhog Day (1993):  Cos: 0.42068766856 
+ 	 Private Benjamin (1980):  Cos: 0.404892111349 
+ 	 Glengarry Glen Ross (1992):  Cos: 0.399667478121 
+ 	 Reservoir Dogs (1992):  Cos: 0.3842155062 
+ 	 2001: A Space Odyssey (1968):  Cos: 0.379742530637 
+ 	 Striptease (1996):  Cos: 0.366414054396 
+ 	 Flipper (1996):  Cos: 0.363295580201 
+
+ Film: D3: The Mighty Ducks (1996) -- Its films more similar are: 
+ 	 Field of Dreams (1989):  Cos: 0.172132593165 
+ 	 Top Gun (1986):  Cos: 0.133333333333 
+ 	 Bedknobs and Broomsticks (1971):  Cos: 0.0873333764609 
+ 	 Exotica (1994):  Cos: 0.0868744485526 
+ 	 Mad Love (1995):  Cos: 0.07453559925 
+
+ Film: Love Bug, The (1969) -- Its films more similar are: 
+
+ Film: Homeward Bound: The Incredible Journey (1993) -- Its films more similar are: 
+ 	 101 Dalmatians (1996):  Cos: 0.118216560936 
+ 	 Dead Poets Society (1989):  Cos: 0.111187397499 
+ 	 Snow White and the Seven Dwarfs (1937):  Cos: 0.0944911182523 
+ 	 Richard III (1995):  Cos: 0.0707992325405 
+
+ Film: 20,000 Leagues Under the Sea (1954) -- Its films more similar are: 
+
+ Film: Bedknobs and Broomsticks (1971) -- Its films more similar are: 
+ 	 Star Trek IV: The Voyage Home (1986):  Cos: 0.508684684079 
+ 	 Star Trek: First Contact (1996):  Cos: 0.343699890076 
+ 	 Field of Dreams (1989):  Cos: 0.303481556811 
+ 	 Indiana Jones and the Last Crusade (1989):  Cos: 0.282685708459 
+ 	 Cyrano de Bergerac (1990):  Cos: 0.278618076128 
+ 	 Unforgiven (1992):  Cos: 0.274721127897 
+ 	 Dead Poets Society (1989):  Cos: 0.269170633964 
+ 	 Raging Bull (1980):  Cos: 0.216435908012 
+ 	 Psycho (1960):  Cos: 0.186636254348 
+ 	 Raiders of the Lost Ark (1981):  Cos: 0.18428853505 
+
+ Film: Sound of Music, The (1965) -- Its films more similar are: 
+
+ Film: Die Hard (1988) -- Its films more similar are: 
+ 	 Die Hard 2 (1990):  Cos: 0.15625 
+ 	 Unforgiven (1992):  Cos: 0.107832773203 
+ 	 Alien (1979):  Cos: 0.103450736075 
+ 	 Private Benjamin (1980):  Cos: 0.0928476690885 
+ 	 Kansas City (1996):  Cos: 0.0923186182345 
+ 	 Twister (1996):  Cos: 0.0911656196862 
+ 	 All Dogs Go to Heaven 2 (1996):  Cos: 0.0860309002015 
+ 	 Jurassic Park (1993):  Cos: 0.0857492925713 
+ 	 Crumb (1994):  Cos: 0.0849207775608 
+ 	 Braveheart (1995):  Cos: 0.0845154254729 
+
+ Film: Lawnmower Man, The (1992) -- Its films more similar are: 
+
+ Film: Unhook the Stars (1996) -- Its films more similar are: 
+ 	 Cyrano de Bergerac (1990):  Cos: 0.28331529879 
+ 	 Dead Poets Society (1989):  Cos: 0.279751442472 
+ 	 Raging Bull (1980):  Cos: 0.255376959228 
+ 	 Psycho (1960):  Cos: 0.252757639123 
+ 	 Swingers (1996):  Cos: 0.251477845385 
+ 	 Bedknobs and Broomsticks (1971):  Cos: 0.236433121872 
+ 	 Citizen Kane (1941):  Cos: 0.234349970059 
+ 	 Flipper (1996):  Cos: 0.234349970059 
+ 	 Operation Dumbo Drop (1995):  Cos: 0.205677351057 
+ 	 Sgt. Bilko (1996):  Cos: 0.171849945038 
+
+ Film: Long Kiss Goodnight, The (1996) -- Its films more similar are: 
+
+ Film: Ghost and the Darkness, The (1996) -- Its films more similar are: 
+
+ Film: Jude (1996) -- Its films more similar are: 
+ 	 Toy Story (1995):  Cos: 0.0353663927845 
+
+ Film: Swingers (1996) -- Its films more similar are: 
+ 	 Die Hard 2 (1990):  Cos: 0.195076826629 
+ 	 Breaking the Waves (1996):  Cos: 0.103417537999 
+ 	 Raiders of the Lost Ark (1981):  Cos: 0.101209079874 
+ 	 Basic Instinct (1992):  Cos: 0.0998890737318 
+ 	 Unhook the Stars (1996):  Cos: 0.0984731927835 
+ 	 Star Wars (1977):  Cos: 0.0941763218696 
+ 	 Bad Boys (1995):  Cos: 0.0642824346533 
+ 	 Mighty Aphrodite (1995):  Cos: 0.0628694613462 
+ 	 Twelve Monkeys (1995):  Cos: 0.0587093704331 
+ 	 Toy Story (1995):  Cos: 0.040779543587 
+
+ Film: Willy Wonka and the Chocolate Factory (1971) -- Its films more similar are: 
+
+ Film: Sleeper (1973) -- Its films more similar are: 
+ 	 When Harry Met Sally... (1989):  Cos: 0.0858194351536 
+ 	 Psycho (1960):  Cos: 0.0693375245282 
+ 	 Basic Instinct (1992):  Cos: 0.0679366220487 
+ 	 Mystery Science Theater 3000: The Movie (1996):  Cos: 0.0560331814681 
+ 	 Angels and Insects (1995):  Cos: 0.054392829322 
+ 	 Richard III (1995):  Cos: 0.0475651494154 
+
+ Film: Fish Called Wanda, A (1988) -- Its films more similar are: 
+
+ Film: Monty Python's Life of Brian (1979) -- Its films more similar are: 
+
+ Film: Dirty Dancing (1987) -- Its films more similar are: 
+
+ Film: Reservoir Dogs (1992) -- Its films more similar are: 
+ 	 Young Frankenstein (1974):  Cos: 0.53033008589 
+ 	 Unforgiven (1992):  Cos: 0.522543728363 
+ 	 Groundhog Day (1993):  Cos: 0.51752719243 
+ 	 Evil Dead II (1987):  Cos: 0.496966604966 
+ 	 12 Angry Men (1957):  Cos: 0.488794900286 
+ 	 Private Benjamin (1980):  Cos: 0.470442121279 
+ 	 Glengarry Glen Ross (1992):  Cos: 0.464371646035 
+ 	 Big Night (1996):  Cos: 0.44641807706 
+ 	 2001: A Space Odyssey (1968):  Cos: 0.441220949101 
+ 	 Striptease (1996):  Cos: 0.433238170641 
+
+ Film: Platoon (1986) -- Its films more similar are: 
+ 	 Jurassic Park (1993):  Cos: 0.0470244852317 
+ 	 Forrest Gump (1994):  Cos: 0.043747863926 
+ 	 Taxi Driver (1976):  Cos: 0.0402512362071 
+ 	 Babe (1995):  Cos: 0.0381385035698 
+
+ Film: Weekend at Bernie's (1989) -- Its films more similar are: 
+ 	 Cape Fear (1991):  Cos: 0.197311400917 
+ 	 Top Gun (1986):  Cos: 0.14253932902 
+ 	 Basic Instinct (1992):  Cos: 0.0731925054711 
+ 	 Much Ado About Nothing (1993):  Cos: 0.0690065559342 
+ 	 Desperado (1995):  Cos: 0.0661300071266 
+ 	 Batman Forever (1995):  Cos: 0.0460612715359 
+ 	 Four Rooms (1995):  Cos: 0.0445435403187 
+ 	 GoldenEye (1995):  Cos: 0.0282899297993 
+
+ Film: Basic Instinct (1992) -- Its films more similar are: 
+ 	 Star Trek IV: The Voyage Home (1986):  Cos: 0.302371578407 
+ 	 Star Trek: First Contact (1996):  Cos: 0.269170633964 
+ 	 When Harry Met Sally... (1989):  Cos: 0.204301567382 
+ 	 Field of Dreams (1989):  Cos: 0.180395046721 
+ 	 Indiana Jones and the Last Crusade (1989):  Cos: 0.168033610083 
+ 	 Cyrano de Bergerac (1990):  Cos: 0.165615734242 
+ 	 Unforgiven (1992):  Cos: 0.163299316186 
+ 	 Psycho (1960):  Cos: 0.14253932902 
+ 	 Aliens (1986):  Cos: 0.128653504181 
+ 	 Raiders of the Lost Ark (1981):  Cos: 0.0992277876714 
+
+ Film: Glengarry Glen Ross (1992) -- Its films more similar are: 
+ 	 Young Frankenstein (1974):  Cos: 0.54702377605 
+ 	 Unforgiven (1992):  Cos: 0.541772226218 
+ 	 Groundhog Day (1993):  Cos: 0.536669077393 
+ 	 Aliens (1986):  Cos: 0.511693888099 
+ 	 Private Benjamin (1980):  Cos: 0.492481320943 
+ 	 Reservoir Dogs (1992):  Cos: 0.486126457014 
+ 	 Big Night (1996):  Cos: 0.46733180202 
+ 	 2001: A Space Odyssey (1968):  Cos: 0.461891199815 
+ 	 Striptease (1996):  Cos: 0.445679410548 
+ 	 Heavy Metal (1981):  Cos: 0.441886325309 
+
+ Film: Top Gun (1986) -- Its films more similar are: 
+ 	 Cape Fear (1991):  Cos: 0.133333333333 
+ 	 Weekend at Bernie's (1989):  Cos: 0.11475506211 
+ 	 Bedknobs and Broomsticks (1971):  Cos: 0.108465228909 
+ 	 D3: The Mighty Ducks (1996):  Cos: 0.101353523311 
+ 	 All Dogs Go to Heaven 2 (1996):  Cos: 0.0707106781187 
+ 	 Four Weddings and a Funeral (1994):  Cos: 0.0690065559342 
+ 	 Mad Love (1995):  Cos: 0.0477409916026 
+
+ Film: On Golden Pond (1981) -- Its films more similar are: 
+ 	 Cyrano de Bergerac (1990):  Cos: 0.162607000122 
+ 	 Gone with the Wind (1939):  Cos: 0.132406785333 
+ 	 Kansas City (1996):  Cos: 0.0794440711999 
+ 	 Terminator 2: Judgment Day (1991):  Cos: 0.0618226945287 
+ 	 Legends of the Fall (1994):  Cos: 0.0555746173353 
+ 	 Belle de jour (1967):  Cos: 0.0480015360737 
+ 	 Twelve Monkeys (1995):  Cos: 0.0459922049818 
+ 	 Toy Story (1995):  Cos: 0.022902431623 
+
+ Film: Return of the Pink Panther, The (1974) -- Its films more similar are: 
+
+ Film: Abyss, The (1989) -- Its films more similar are: 
+
+ Film: Jean de Florette (1986) -- Its films more similar are: 
+ 	 Delicatessen (1991):  Cos: 0.0801783725737 
+ 	 Flipper (1996):  Cos: 0.0541331961961 
+ 	 Toy Story (1995):  Cos: 0.0323310403057 
+
+ Film: Manon of the Spring (Manon des sources) (1986) -- Its films more similar are: 
+
+ Film: Private Benjamin (1980) -- Its films more similar are: 
+ 	 Young Frankenstein (1974):  Cos: 0.613696485751 
+ 	 Unforgiven (1992):  Cos: 0.607804863087 
+ 	 Groundhog Day (1993):  Cos: 0.60207972894 
+ 	 Glengarry Glen Ross (1992):  Cos: 0.574060497287 
+ 	 Reservoir Dogs (1992):  Cos: 0.552506251453 
+ 	 Die Hard (1988):  Cos: 0.545376839842 
+ 	 Big Night (1996):  Cos: 0.524291442413 
+ 	 2001: A Space Odyssey (1968):  Cos: 0.518187725172 
+ 	 Striptease (1996):  Cos: 0.517905976974 
+ 	 Mystery Science Theater 3000: The Movie (1996):  Cos: 0.495744603465 
+
+ Film: Monty Python and the Holy Grail (1974) -- Its films more similar are: 
+
+ Film: Wrong Trousers, The (1993) -- Its films more similar are: 
+
+ Film: Cinema Paradiso (1988) -- Its films more similar are: 
+
+ Film: Delicatessen (1991) -- Its films more similar are: 
+ 	 Jean de Florette (1986):  Cos: 0.0912870929175 
+ 	 Striptease (1996):  Cos: 0.0801783725737 
+ 	 Sgt. Bilko (1996):  Cos: 0.0562939968781 
+ 	 Natural Born Killers (1994):  Cos: 0.0335200761577 
+ 	 Twelve Monkeys (1995):  Cos: 0.0302429189455 
+ 	 Toy Story (1995):  Cos: 0.0217700172092 
+
+ Film: Empire Strikes Back, The (1980) -- Its films more similar are: 
+
+ Film: Princess Bride, The (1987) -- Its films more similar are: 
+
+ Film: Raiders of the Lost Ark (1981) -- Its films more similar are: 
+ 	 Star Trek IV: The Voyage Home (1986):  Cos: 0.382820746744 
+ 	 Die Hard 2 (1990):  Cos: 0.357288719047 
+ 	 Sling Blade (1996):  Cos: 0.317553674415 
+ 	 Star Trek: First Contact (1996):  Cos: 0.282685708459 
+ 	 Field of Dreams (1989):  Cos: 0.214559561956 
+ 	 Indiana Jones and the Last Crusade (1989):  Cos: 0.205832326855 
+ 	 Unforgiven (1992):  Cos: 0.198852919667 
+ 	 Aliens (1986):  Cos: 0.189452693385 
+ 	 Basic Instinct (1992):  Cos: 0.173931310696 
+ 	 Swingers (1996):  Cos: 0.168033610083 
+
+ Film: Brazil (1985) -- Its films more similar are: 
+ 	 Kansas City (1996):  Cos: 0.126269068069 
+ 	 Much Ado About Nothing (1993):  Cos: 0.122572584461 
+ 	 Free Willy (1993):  Cos: 0.0911656196862 
+ 	 Hoop Dreams (1994):  Cos: 0.0641236470053 
+ 	 Nadja (1994):  Cos: 0.0376889180722 
+
+ Film: Aliens (1986) -- Its films more similar are: 
+ 	 Sling Blade (1996):  Cos: 0.315187540284 
+ 	 Star Trek: First Contact (1996):  Cos: 0.253024038426 
+ 	 Breaking the Waves (1996):  Cos: 0.212167106198 
+ 	 Indiana Jones and the Last Crusade (1989):  Cos: 0.205832326855 
+ 	 Full Metal Jacket (1987):  Cos: 0.20003306605 
+ 	 Raiders of the Lost Ark (1981):  Cos: 0.188592983287 
+ 	 Glengarry Glen Ross (1992):  Cos: 0.179917346221 
+ 	 Basic Instinct (1992):  Cos: 0.163326314502 
+ 	 Mr. Smith Goes to Washington (1939):  Cos: 0.137732311757 
+ 	 Moll Flanders (1996):  Cos: 0.0722944039068 
+
+ Film: Good, The Bad and The Ugly, The (1966) -- Its films more similar are: 
+
+ Film: 12 Angry Men (1957) -- Its films more similar are: 
+ 	 Cape Fear (1991):  Cos: 0.278886675511 
+ 	 Indiana Jones and the Last Crusade (1989):  Cos: 0.164082530828 
+ 	 Evil Dead II (1987):  Cos: 0.156720781994 
+ 	 Dead Poets Society (1989):  Cos: 0.152894157431 
+ 	 Reservoir Dogs (1992):  Cos: 0.147901994577 
+ 	 Lone Star (1996):  Cos: 0.143486010796 
+ 	 Sgt. Bilko (1996):  Cos: 0.14342743312 
+ 	 Priest (1994):  Cos: 0.14342743312 
+ 	 Nadja (1994):  Cos: 0.140642169282 
+ 	 Bad Boys (1995):  Cos: 0.113389341903 
+
+ Film: Clockwork Orange, A (1971) -- Its films more similar are: 
+
+ Film: Apocalypse Now (1979) -- Its films more similar are: 
+
+ Film: Return of the Jedi (1983) -- Its films more similar are: 
+
+ Film: GoodFellas (1990) -- Its films more similar are: 
+
+ Film: Alien (1979) -- Its films more similar are: 
+ 	 Star Trek III: The Search for Spock (1984):  Cos: 0.0953462589246 
+ 	 Die Hard 2 (1990):  Cos: 0.0923186182345 
+ 	 Die Hard (1988):  Cos: 0.0847173742087 
+ 	 Striptease (1996):  Cos: 0.0576709836082 
+ 	 Jurassic Park (1993):  Cos: 0.0530931873202 
+ 	 Star Wars (1977):  Cos: 0.0413184338379 
+
+ Film: Army of Darkness (1993) -- Its films more similar are: 
+
+ Film: Psycho (1960) -- Its films more similar are: 
+ 	 Cyrano de Bergerac (1990):  Cos: 0.305441419328 
+ 	 Dead Poets Society (1989):  Cos: 0.274505406523 
+ 	 Raging Bull (1980):  Cos: 0.271052370872 
+ 	 Basic Instinct (1992):  Cos: 0.252757639123 
+ 	 Sleeper (1973):  Cos: 0.247435829653 
+ 	 Unhook the Stars (1996):  Cos: 0.227062689783 
+ 	 Bedknobs and Broomsticks (1971):  Cos: 0.227062689783 
+ 	 Citizen Kane (1941):  Cos: 0.199281666418 
+ 	 Flipper (1996):  Cos: 0.182743471162 
+ 	 Moll Flanders (1996):  Cos: 0.166506147833 
+
+ Film: Blues Brothers, The (1980) -- Its films more similar are: 
+
+ Film: Godfather: Part II, The (1974) -- Its films more similar are: 
+
+ Film: Full Metal Jacket (1987) -- Its films more similar are: 
+ 	 Aliens (1986):  Cos: 0.0573068255061 
+ 	 Sgt. Bilko (1996):  Cos: 0.0393673329589 
+
+ Film: Grand Day Out, A (1992) -- Its films more similar are: 
+
+ Film: Henry V (1989) -- Its films more similar are: 
+ 	 Dead Poets Society (1989):  Cos: 0.135184517609 
+ 	 Raging Bull (1980):  Cos: 0.135184517609 
+ 	 Hoop Dreams (1994):  Cos: 0.108798534972 
+ 	 Toy Story (1995):  Cos: 0.0650724007869 
+
+ Film: Amadeus (1984) -- Its films more similar are: 
+ 	 Mystery Science Theater 3000: The Movie (1996):  Cos: 0.0567504353839 
+ 	 Natural Born Killers (1994):  Cos: 0.0357599269926 
+
+ Film: Raging Bull (1980) -- Its films more similar are: 
+ 	 When Harry Met Sally... (1989):  Cos: 0.298245614035 
+ 	 Cyrano de Bergerac (1990):  Cos: 0.261792205835 
+ 	 Dead Poets Society (1989):  Cos: 0.25451390519 
+ 	 Henry V (1989):  Cos: 0.251312344975 
+ 	 Psycho (1960):  Cos: 0.251163771303 
+ 	 Unhook the Stars (1996):  Cos: 0.240032560258 
+ 	 Bedknobs and Broomsticks (1971):  Cos: 0.234349970059 
+ 	 Citizen Kane (1941):  Cos: 0.229415733871 
+ 	 Kansas City (1996):  Cos: 0.227062689783 
+ 	 Flipper (1996):  Cos: 0.212397697621 
+
+ Film: Right Stuff, The (1983) -- Its films more similar are: 
+
+ Film: Sting, The (1973) -- Its films more similar are: 
+
+ Film: Terminator, The (1984) -- Its films more similar are: 
+
+ Film: Dead Poets Society (1989) -- Its films more similar are: 
+ 	 Sling Blade (1996):  Cos: 0.298245614035 
+ 	 When Harry Met Sally... (1989):  Cos: 0.25451390519 
+ 	 Indiana Jones and the Last Crusade (1989):  Cos: 0.251312344975 
+ 	 Cyrano de Bergerac (1990):  Cos: 0.240032560258 
+ 	 Evil Dead II (1987):  Cos: 0.234349970059 
+ 	 Raging Bull (1980):  Cos: 0.229415733871 
+ 	 Henry V (1989):  Cos: 0.227062689783 
+ 	 Psycho (1960):  Cos: 0.218536689369 
+ 	 12 Angry Men (1957):  Cos: 0.212397697621 
+ 	 Unhook the Stars (1996):  Cos: 0.184768510738 
+
+ Film: Graduate, The (1967) -- Its films more similar are: 
+
+ Film: Nikita (La Femme Nikita) (1990) -- Its films more similar are: 
+
+ Film: Bridge on the River Kwai, The (1957) -- Its films more similar are: 
+
+ Film: Shining, The (1980) -- Its films more similar are: 
+
+ Film: Evil Dead II (1987) -- Its films more similar are: 
+ 	 Dead Poets Society (1989):  Cos: 0.14342743312 
+ 	 12 Angry Men (1957):  Cos: 0.127920429813 
+ 	 Reservoir Dogs (1992):  Cos: 0.12 
+ 	 While You Were Sleeping (1995):  Cos: 0.117669681083 
+ 	 Nadja (1994):  Cos: 0.11239029739 
+ 	 Bad Boys (1995):  Cos: 0.0948683298051 
+ 	 Mighty Aphrodite (1995):  Cos: 0.0612372435696 
+ 	 Richard III (1995):  Cos: 0.0588348405415 
+ 	 Babe (1995):  Cos: 0.0335672543319 
+
+ Film: Groundhog Day (1993) -- Its films more similar are: 
+ 	 Die Hard 2 (1990):  Cos: 0.39500592983 
+ 	 Sling Blade (1996):  Cos: 0.391213785109 
+ 	 When Harry Met Sally... (1989):  Cos: 0.387528800773 
+ 	 Young Frankenstein (1974):  Cos: 0.38665444667 
+ 	 Unforgiven (1992):  Cos: 0.373833589709 
+ 	 Private Benjamin (1980):  Cos: 0.369835254541 
+ 	 Glengarry Glen Ross (1992):  Cos: 0.369494213792 
+ 	 Reservoir Dogs (1992):  Cos: 0.355620816901 
+ 	 Big Night (1996):  Cos: 0.351031968948 
+ 	 2001: A Space Odyssey (1968):  Cos: 0.337460346476 
+
+ Film: Unforgiven (1992) -- Its films more similar are: 
+ 	 Star Trek IV: The Voyage Home (1986):  Cos: 0.669391700042 
+ 	 Die Hard 2 (1990):  Cos: 0.662965390942 
+ 	 Star Trek: First Contact (1996):  Cos: 0.656720679804 
+ 	 Field of Dreams (1989):  Cos: 0.643175880825 
+ 	 Indiana Jones and the Last Crusade (1989):  Cos: 0.631032077284 
+ 	 Young Frankenstein (1974):  Cos: 0.626158599777 
+ 	 Back to the Future (1985):  Cos: 0.602648226821 
+ 	 Groundhog Day (1993):  Cos: 0.599144689515 
+ 	 Raiders of the Lost Ark (1981):  Cos: 0.545376839842 
+ 	 Private Benjamin (1980):  Cos: 0.540735250413 
+
+ Film: Back to the Future (1985) -- Its films more similar are: 
+ 	 Unforgiven (1992):  Cos: 0.198945892521 
+ 	 Kansas City (1996):  Cos: 0.189511747872 
+ 	 Operation Dumbo Drop (1995):  Cos: 0.165273735352 
+ 	 Mystery Science Theater 3000: The Movie (1996):  Cos: 0.143637914281 
+ 	 Moll Flanders (1996):  Cos: 0.134005042035 
+ 	 Sgt. Bilko (1996):  Cos: 0.128331750585 
+ 	 Terminator 2: Judgment Day (1991):  Cos: 0.127661380465 
+ 	 Blade Runner (1982):  Cos: 0.123091490979 
+ 	 Much Ado About Nothing (1993):  Cos: 0.11844484242 
+ 	 Ed Wood (1994):  Cos: 0.108798534972 
+
+ Film: Patton (1970) -- Its films more similar are: 
+ 	 Stargate (1994):  Cos: 0.0761386987627 
+ 	 Belle de jour (1967):  Cos: 0.0538381902058 
+
+ Film: Akira (1988) -- Its films more similar are: 
+ 	 Star Wars (1977):  Cos: 0.0924500327042 
+ 	 Nadja (1994):  Cos: 0.0791187772129 
+ 	 Desperado (1995):  Cos: 0.06415002991 
+ 	 Dead Man Walking (1995):  Cos: 0.0387492129146 
+ 	 GoldenEye (1995):  Cos: 0.0368105086916 
+
+ Film: Cyrano de Bergerac (1990) -- Its films more similar are: 
+ 	 Sling Blade (1996):  Cos: 0.305441419328 
+ 	 Field of Dreams (1989):  Cos: 0.256776295507 
+ 	 Dead Poets Society (1989):  Cos: 0.253546276419 
+ 	 Raging Bull (1980):  Cos: 0.236433121872 
+ 	 Psycho (1960):  Cos: 0.231455024943 
+ 	 On Golden Pond (1981):  Cos: 0.212397697621 
+ 	 Basic Instinct (1992):  Cos: 0.212397697621 
+ 	 Unhook the Stars (1996):  Cos: 0.199431008804 
+ 	 Bedknobs and Broomsticks (1971):  Cos: 0.1864109298 
+ 	 Citizen Kane (1941):  Cos: 0.18609684208 
+
+ Film: Young Frankenstein (1974) -- Its films more similar are: 
+ 	 Star Trek III: The Search for Spock (1984):  Cos: 0.608473441953 
+ 	 Star Trek: The Wrath of Khan (1982):  Cos: 0.60263196167 
+ 	 Unforgiven (1992):  Cos: 0.596955552955 
+ 	 Groundhog Day (1993):  Cos: 0.59152990043 
+ 	 Private Benjamin (1980):  Cos: 0.569174787185 
+ 	 Glengarry Glen Ross (1992):  Cos: 0.547803985077 
+ 	 Reservoir Dogs (1992):  Cos: 0.540735250413 
+ 	 Big Night (1996):  Cos: 0.513777536671 
+ 	 2001: A Space Odyssey (1968):  Cos: 0.495744603465 
+ 	 Striptease (1996):  Cos: 0.479486238629 
+
+ Film: This Is Spinal Tap (1984) -- Its films more similar are: 
+ 	 Hoop Dreams (1994):  Cos: 0.0426401432711 
+
+ Film: Indiana Jones and the Last Crusade (1989) -- Its films more similar are: 
+ 	 Star Trek IV: The Voyage Home (1986):  Cos: 0.372034893103 
+ 	 Sling Blade (1996):  Cos: 0.357288719047 
+ 	 Star Trek: First Contact (1996):  Cos: 0.308606699924 
+ 	 Cape Fear (1991):  Cos: 0.278886675511 
+ 	 Field of Dreams (1989):  Cos: 0.274721127897 
+ 	 Unforgiven (1992):  Cos: 0.228802157661 
+ 	 Dead Poets Society (1989):  Cos: 0.218536689369 
+ 	 12 Angry Men (1957):  Cos: 0.208514414057 
+ 	 Aliens (1986):  Cos: 0.206239477846 
+ 	 Raiders of the Lost Ark (1981):  Cos: 0.200081682666 
+
+ Film: M*A*S*H (1970) -- Its films more similar are: 
+
+ Film: Unbearable Lightness of Being, The (1988) -- Its films more similar are: 
+
+ Film: Room with a View, A (1986) -- Its films more similar are: 
+
+ Film: Pink Floyd - The Wall (1982) -- Its films more similar are: 
+
+ Film: Field of Dreams (1989) -- Its films more similar are: 
+ 	 Star Trek IV: The Voyage Home (1986):  Cos: 0.340914593836 
+ 	 Sling Blade (1996):  Cos: 0.303481556811 
+ 	 Star Trek: First Contact (1996):  Cos: 0.230343692456 
+ 	 Indiana Jones and the Last Crusade (1989):  Cos: 0.189452693385 
+ 	 Cyrano de Bergerac (1990):  Cos: 0.186726613227 
+ 	 Unforgiven (1992):  Cos: 0.18411492358 
+ 	 Raiders of the Lost Ark (1981):  Cos: 0.18130384364 
+ 	 Basic Instinct (1992):  Cos: 0.180395046721 
+ 	 Bedknobs and Broomsticks (1971):  Cos: 0.153562461638 
+ 	 D3: The Mighty Ducks (1996):  Cos: 0.145052843109 
+
+ Film: When Harry Met Sally... (1989) -- Its films more similar are: 
+ 	 Die Hard 2 (1990):  Cos: 0.369835254541 
+ 	 Sling Blade (1996):  Cos: 0.251163771303 
+ 	 Groundhog Day (1993):  Cos: 0.238609710969 
+ 	 Dead Poets Society (1989):  Cos: 0.226901097886 
+ 	 Raging Bull (1980):  Cos: 0.22244202665 
+ 	 Basic Instinct (1992):  Cos: 0.21506619681 
+ 	 Sleeper (1973):  Cos: 0.196502114916 
+ 	 Kansas City (1996):  Cos: 0.191530117127 
+ 	 Sgt. Bilko (1996):  Cos: 0.168430384213 
+ 	 Terminator 2: Judgment Day (1991):  Cos: 0.12632278816 
+
+ Film: Bram Stoker's Dracula (1992) -- Its films more similar are: 
+
+ Film: Cape Fear (1991) -- Its films more similar are: 
+ 	 Indiana Jones and the Last Crusade (1989):  Cos: 0.0790569415042 
+ 	 12 Angry Men (1957):  Cos: 0.07453559925 
+ 	 Top Gun (1986):  Cos: 0.0731925054711 
+ 	 Weekend at Bernie's (1989):  Cos: 0.0707106781187 
+ 	 Snow White and the Seven Dwarfs (1937):  Cos: 0.055141096657 
+ 	 Ace Ventura: Pet Detective (1994):  Cos: 0.0534522483825 
+ 	 Hoop Dreams (1994):  Cos: 0.0505649896847 
+ 	 GoldenEye (1995):  Cos: 0.046625240412 
+ 	 Toy Story (1995):  Cos: 0.0403238919273 
+
+ Film: Nightmare on Elm Street, A (1984) -- Its films more similar are: 
+
+ Film: Mirror Has Two Faces, The (1996) -- Its films more similar are: 
+
+ Film: Breaking the Waves (1996) -- Its films more similar are: 
+ 	 Aliens (1986):  Cos: 0.113633102862 
+ 	 Swingers (1996):  Cos: 0.0998890737318 
+ 	 Apollo 13 (1995):  Cos: 0.0722944039068 
+ 	 Braveheart (1995):  Cos: 0.059743652263 
+ 	 GoldenEye (1995):  Cos: 0.0481962692712 
+ 	 Toy Story (1995):  Cos: 0.0363096621066 
+
+ Film: Star Trek: First Contact (1996) -- Its films more similar are: 
+ 	 Star Trek IV: The Voyage Home (1986):  Cos: 0.382820746744 
+ 	 Star Trek: The Wrath of Khan (1982):  Cos: 0.372034893103 
+ 	 Star Trek VI: The Undiscovered Country (1991):  Cos: 0.315187540284 
+ 	 Sling Blade (1996):  Cos: 0.304500092797 
+ 	 Field of Dreams (1989):  Cos: 0.255331089993 
+ 	 Indiana Jones and the Last Crusade (1989):  Cos: 0.243132269542 
+ 	 Unforgiven (1992):  Cos: 0.226960968883 
+ 	 Aliens (1986):  Cos: 0.216520331274 
+ 	 Raiders of the Lost Ark (1981):  Cos: 0.216435908012 
+ 	 Basic Instinct (1992):  Cos: 0.19655396472 
+
+ Film: Sling Blade (1996) -- Its films more similar are: 
+ 	 Die Hard 2 (1990):  Cos: 0.28171808491 
+ 	 Star Trek: First Contact (1996):  Cos: 0.226960968883 
+ 	 When Harry Met Sally... (1989):  Cos: 0.226901097886 
+ 	 Field of Dreams (1989):  Cos: 0.224525104685 
+ 	 Indiana Jones and the Last Crusade (1989):  Cos: 0.188592983287 
+ 	 Cyrano de Bergerac (1990):  Cos: 0.1821981315 
+ 	 Groundhog Day (1993):  Cos: 0.180555555556 
+ 	 Dead Poets Society (1989):  Cos: 0.169442855925 
+ 	 Aliens (1986):  Cos: 0.163824395728 
+ 	 Raiders of the Lost Ark (1981):  Cos: 0.154735694183 
+
+ Film: Ridicule (1996) -- Its films more similar are: 
+
+ Film: 101 Dalmatians (1996) -- Its films more similar are: 
+ 	 Homeward Bound: The Incredible Journey (1993):  Cos: 0.0944911182523 
+ 	 Sgt. Bilko (1996):  Cos: 0.0749531688996 
+ 	 All Dogs Go to Heaven 2 (1996):  Cos: 0.0648203723552 
+ 	 Welcome to the Dollhouse (1995):  Cos: 0.0569802882298 
+ 	 Four Rooms (1995):  Cos: 0.0566138517072 
+
+ Film: Die Hard 2 (1990) -- Its films more similar are: 
+ 	 Sling Blade (1996):  Cos: 0.38665444667 
+ 	 When Harry Met Sally... (1989):  Cos: 0.224846875207 
+ 	 Unforgiven (1992):  Cos: 0.22244202665 
+ 	 Groundhog Day (1993):  Cos: 0.200240432866 
+ 	 Alien (1979):  Cos: 0.195076826629 
+ 	 Raiders of the Lost Ark (1981):  Cos: 0.176090181265 
+ 	 Swingers (1996):  Cos: 0.169442855925 
+ 	 Die Hard (1988):  Cos: 0.146741817721 
+ 	 Breakfast at Tiffany's (1961):  Cos: 0.107832773203 
+ 	 Terminator 2: Judgment Day (1991):  Cos: 0.0821686553497 
+
+ Film: Star Trek VI: The Undiscovered Country (1991) -- Its films more similar are: 
+ 	 Star Trek: The Wrath of Khan (1982):  Cos: 0.0742156043993 
+ 	 Star Trek: First Contact (1996):  Cos: 0.060999428133 
+ 	 Mr. Smith Goes to Washington (1939):  Cos: 0.0471870796395 
+ 	 Kansas City (1996):  Cos: 0.0470620805335 
+ 	 Jurassic Park (1993):  Cos: 0.045466289298 
+ 	 Star Wars (1977):  Cos: 0.0415048537576 
+ 	 Disclosure (1994):  Cos: 0.0336812996921 
+ 	 Apollo 13 (1995):  Cos: 0.0283182735894 
+
+ Film: Star Trek: The Wrath of Khan (1982) -- Its films more similar are: 
+ 	 Star Trek III: The Search for Spock (1984):  Cos: 0.292118697336 
+ 	 Star Trek VI: The Undiscovered Country (1991):  Cos: 0.22188007849 
+ 	 Star Trek: First Contact (1996):  Cos: 0.208302257569 
+ 	 Young Frankenstein (1974):  Cos: 0.194028500029 
+ 	 Mystery Science Theater 3000: The Movie (1996):  Cos: 0.184752086141 
+ 	 Forrest Gump (1994):  Cos: 0.159205950434 
+ 	 Star Wars (1977):  Cos: 0.110148542531 
+ 	 Nadja (1994):  Cos: 0.0697485832463 
+ 	 Batman Forever (1995):  Cos: 0.060999428133 
+ 	 Twelve Monkeys (1995):  Cos: 0.0557086014531 
+
+ Film: Star Trek III: The Search for Spock (1984) -- Its films more similar are: 
+ 	 Star Trek: The Wrath of Khan (1982):  Cos: 0.292118697336 
+ 	 Young Frankenstein (1974):  Cos: 0.202547873417 
+ 	 Alien (1979):  Cos: 0.190153075417 
+ 	 Big Night (1996):  Cos: 0.177122977108 
+ 	 Gone with the Wind (1939):  Cos: 0.168654808542 
+ 	 Mystery Science Theater 3000: The Movie (1996):  Cos: 0.145334483903 
+ 	 Carlito's Way (1993):  Cos: 0.135612700724 
+ 	 Star Wars (1977):  Cos: 0.100551402368 
+ 	 Nadja (1994):  Cos: 0.0953462589246 
+ 	 Batman Forever (1995):  Cos: 0.0848952719956 
+
+ Film: Star Trek IV: The Voyage Home (1986) -- Its films more similar are: 
+ 	 Star Trek: First Contact (1996):  Cos: 0.508684684079 
+ 	 Field of Dreams (1989):  Cos: 0.386093671253 
+ 	 Indiana Jones and the Last Crusade (1989):  Cos: 0.340914593836 
+ 	 Unforgiven (1992):  Cos: 0.317553674415 
+ 	 Raiders of the Lost Ark (1981):  Cos: 0.312984318574 
+ 	 Basic Instinct (1992):  Cos: 0.308606699924 
+ 	 Bedknobs and Broomsticks (1971):  Cos: 0.302371578407 
+ 	 Snow White and the Seven Dwarfs (1937):  Cos: 0.243132269542 
+ 	 Free Willy 2: The Adventure Home (1995):  Cos: 0.187522892375 
+ 	 Twelve Monkeys (1995):  Cos: 0.180272869228 
+

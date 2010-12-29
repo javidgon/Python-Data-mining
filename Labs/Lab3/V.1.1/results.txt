@@ -1,0 +1,23 @@
+Python 2.6.5 (r265:79063, Apr 16 2010, 13:09:56) 
+[GCC 4.4.3] on linux2
+Type "copyright", "credits" or "license()" for more information.
+
+    ****************************************************************
+    Personal firewall software may warn about the connection IDLE
+    makes to its subprocess using this computer's internal loopback
+    interface.  This connection is not visible on any external
+    interface and no data is sent to or received from the Internet.
+    ****************************************************************
+    
+IDLE 2.6.5      ==== No Subprocess ====
+>>> 
+--------------------------------------------------------------
+-                                                            -
+- Lab 3: An Association Thesaurus for Information Retrieval  -
+-                                                            -
+--------------------------------------------------------------
+Extraction completed successfully.
+File formated successfully.
+Coincidences' search completed successfully.
+Results' file created successfully.
+>>> 

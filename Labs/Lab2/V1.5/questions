@@ -1,0 +1,20 @@
+Who can do the fastest query processor?:
+
+	Based on results, the fastest method is "Term-at-time", but the different is barely important. Term-at-time: 0,0174 s, Document-at-time: 0,0317 s
+
+Measure the time needed for queries of length 1, 2, 3, ...
+
+	Term-at-time:	
+
+		Length 1 (5 words):	0,0315 s
+		Length 2 (10 words):	0,0268 s
+		Length 3 (15 words): 	0,0271 s
+
+	Document-at-time:
+
+		Length 1 (5 words):	0,0118 s
+		Length 2 (10 words):	0,0317 s
+		Length 3 (15 words): 	0,0074 s
+
+
+Conclusion: With these lenghts the time obtained is clearly arbitrary.
